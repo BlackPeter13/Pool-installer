@@ -1,7 +1,7 @@
 <h1 align="center">  Yiimpool Installer v2.0🚀
 
 ###  :information_source: This is the main page for the Afiniel.Tech Yiimpool
-Here you find information all documentation about Afiniel.Tech Yiimpool Installer v2.0  Will mostly automatically install all reequirements to get Yiimp installed correctly. This is a fork of Cryptopool.builders multipool installer, i cant see that the project is active anymore and there for i have start a "Reborn of the project"
+Here you find information all documentation about Yiimpool Installer v2.0  Will mostly automatically install all reequirements to get Yiimp installed correctly. This is a fork of Cryptopool.builders multipool installer, i cant see that the project is active anymore and there for i have start a "Reborn of the project"
 
 ### The installer requires the following
 
